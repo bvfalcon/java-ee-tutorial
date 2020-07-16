@@ -15,15 +15,15 @@ link:title.html[Title and Copyright Information]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [[preface]]
-link:preface.html#GEXAF[Preface]
+link:preface.html#preface[Preface]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* link:preface.html#CIACGIBD[Audience]
-* link:preface.html#CIAHFICG[Documentation Accessibility]
-* link:preface.html#BNAAC[Before You Read This Book]
-* link:preface.html#GIPRL[Related Documentation]
-* link:preface.html#GKVTF[Conventions]
-* link:preface.html#GFIRK[Default Paths and File Names]
+* link:preface.html#audience[Audience]
+* link:preface.html#documentation-accessibility[Documentation Accessibility]
+* link:preface.html#before-you-read-this-book[Before You Read This Book]
+* link:preface.html#related-documentation[Related Documentation]
+* link:preface.html#conventions[Conventions]
+* link:preface.html#default-paths-and-file-names[Default Paths and File Names]
 
 [[part-i-introduction]]
 link:partintro.html#GFIRP[Part I Introduction]
