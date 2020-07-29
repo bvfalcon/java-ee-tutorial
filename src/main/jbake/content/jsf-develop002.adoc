@@ -478,7 +478,7 @@ value of the item, whereas the second argument is a `String`
 representing the label that appears in the `UISelectMany` component on
 the page.
 
-[[BNAUK]][[writing-properties-bound-to-component-instances]]]
+[[BNAUK]][[writing-properties-bound-to-component-instances]]
 
 Writing Properties Bound to Component Instances
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

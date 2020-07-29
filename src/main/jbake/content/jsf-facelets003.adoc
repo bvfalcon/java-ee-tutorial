@@ -25,7 +25,7 @@ The following topics are addressed here:
 
 * link:#creating-a-facelets-application[Creating a Facelets Application]
 * link:#configuring-the-application[Configuring the Application]
-* link:#running-the-guessnumber-jsf-facelets Example[Running the guessnumber-jsf Facelets Example]
+* link:#running-the-guessnumber-jsf-facelets-example[Running the guessnumber-jsf Facelets Example]
 
 [[GIQTE]][[creating-a-facelets-application]]
 
