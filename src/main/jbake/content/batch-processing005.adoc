@@ -81,7 +81,7 @@ element.
 
 [[sthref280]][[BCGEAAEA]]
 
-Table 58-4 Partition Batch Artifact Interfaces
+*Table 58-4 Partition Batch Artifact Interfaces*
 
 
 [width="99%",cols="15%,15%,70%"]

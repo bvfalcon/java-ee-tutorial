@@ -17,11 +17,11 @@ what they do, and link to the section that describes them fully. The
 example directory for each example is relative to the
 `_tut-install_/examples/jms/` directory.
 
-[[sthref200]][sthref201]]
+[[sthref200]][[sthref201]]
 
 *Table 49-1 JMS Examples That Show the Use of Java EE Application Clients*
 
-[width="80%",cols="20%,60%s"]
+[width="80%",cols="20%,60%"]
 |=======================================================================
 |*Example Directory* |*Description*
 |`simple/producer` |Using an application client to send messages; see
@@ -66,7 +66,7 @@ link:jms-examples005.html#BABEJBHA[Using Shared Durable Subscriptions]
 *Table 49-2 JMS Examples That Show the Use of Java EE Web and EJB
 Components*
 
-[width="80%",cols="20%,60%s"]
+[width="80%",cols="20%,60%"]
 |=======================================================================
 |*Example Directory* |*Description*
 |`websimplemessage` |Using managed beans to send messages and to receive

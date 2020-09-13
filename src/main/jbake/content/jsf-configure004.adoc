@@ -375,7 +375,7 @@ marks if you have not called the checkout flow from the join flow.
 
 Only `checkoutFlow2.xhtml` has a button to return to the previous page,
 but moving between pages is generally permitted within flows. Here are
-the buttons for c`heckoutFlow2.xhtml`:
+the buttons for `checkoutFlow2.xhtml`:
 
 [source,oac_no_warn]
 ----

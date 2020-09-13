@@ -42,6 +42,7 @@
 	</a>
 </span>
 <!--<p align="center" class="beta">Beta Draft (Pre-General Availability)</p> -->
+<span id="translation">Версия перевода 1.0.0-RC (<a href="https://github.com/bvfalcon/java-ee-tutorial">The Java EE Tutorial - русскоязычная версия</a>)</span>
 
 </body>
 </html>
