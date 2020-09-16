@@ -37,7 +37,7 @@ file in the build directory, and redeploys the application to GlassFish
 Server.
 * Recompile `ConverterBean.java` using Maven.
 1.  In a terminal window, go to the
-tut-install`/examples/ejb/converter/` directory.
+`_tut-install_/examples/ejb/converter/` directory.
 2.  Enter the following command:
 +
 [source,oac_no_warn]

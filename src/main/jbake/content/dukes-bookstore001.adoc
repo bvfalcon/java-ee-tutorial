@@ -48,7 +48,7 @@ singleton bean
 * A Java Persistence API entity
 
 The packages of the Duke's Bookstore application, located in the
-tut-install`/examples/case-studies/dukes-bookstore/src/main/java/javaeetutorial/dukesbookstore/`
+`_tut-install_/examples/case-studies/dukes-bookstore/src/main/java/javaeetutorial/dukesbookstore/`
 directory, are as follows:
 
 * `components`: Includes the custom UI component classes, `MapComponent`

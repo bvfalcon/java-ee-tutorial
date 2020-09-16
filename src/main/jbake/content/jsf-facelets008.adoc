@@ -95,7 +95,7 @@ for `hello1` (except that it replaces the `@Named` and `@RequestScoped`
 annotations with `@Model`).
 
 The source code for this application is in the
-tut-install`/examples/web/jsf/hello1-rlc/` directory.
+`_tut-install_/examples/web/jsf/hello1-rlc/` directory.
 
 The following topics are addressed here:
 

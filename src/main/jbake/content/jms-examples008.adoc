@@ -22,7 +22,7 @@ The application contains the following components:
 durable topic subscription and a message selector
 
 You will find the source files for this section in the
-tut-install`/examples/jms/clientsessionmdb/` directory. Path names in
+`_tut-install_/examples/jms/clientsessionmdb/` directory. Path names in
 this section are relative to this directory.
 
 The following topics are addressed here:

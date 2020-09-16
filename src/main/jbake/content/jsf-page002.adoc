@@ -1710,7 +1710,7 @@ link:#GIQWQ[Using View Parameters to Configure Bookmarkable URLs].
 
 You can use either NetBeans IDE or Maven to build, package, deploy, and
 run the `bookmarks` example. The source code for this example is in the
-tut-install`/examples/web/jsf/bookmarks/` directory.
+`_tut-install_/examples/web/jsf/bookmarks/` directory.
 
 The following topics are addressed here:
 

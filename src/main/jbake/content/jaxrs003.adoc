@@ -114,7 +114,7 @@ The rsvp Example Application
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The `rsvp` example application, located in the
-`_tut-install_` `/examples/jaxrs/rsvp/` directory, allows invitees to an
+`_tut-install_/examples/jaxrs/rsvp/` directory, allows invitees to an
 event to indicate whether they will attend. The events, people invited
 to the event, and the responses to the invite are stored in Apache Derby using the Java Persistence API. The JAX-RS resources in `rsvp`
 are exposed in a stateless session enterprise bean.

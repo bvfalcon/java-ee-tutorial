@@ -39,9 +39,7 @@ durable subscription after you have finished running the
 For information on durable subscriptions, see
 link:jms-concepts003.html#BNCGD[Creating Durable Subscriptions].
 
-The main client, `DurableConsumer.java`, is under the
-`_tut-install_/examples/jms/durablesubscriptionexample/durableconsumer`/
-directory.
+The main client, `DurableConsumer.java`, is under the `_tut-install_/examples/jms/durablesubscriptionexample/durableconsumer/` directory.
 
 The example uses a connection factory, `jms/DurableConnectionFactory`,
 that has a client ID.
@@ -230,7 +228,7 @@ link:jms-concepts004.html#BNCGB[Creating Temporary Destinations],
 although it uses permanent rather than temporary destinations. The
 example consists of three modules, `genericsupplier`, `retailer`, and
 `vendor`, which can be found under the
-tut-install`/examples/jms/transactedexample/` directory. The source code
+`_tut-install_/examples/jms/transactedexample/` directory. The source code
 can be found in the `src/main/java/javaeetutorial` trees for each
 module. The `genericsupplier` and `retailer` modules each contain a
 single class, `genericsupplier/GenericSupplier.java` and
