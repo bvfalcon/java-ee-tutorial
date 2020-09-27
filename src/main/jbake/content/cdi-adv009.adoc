@@ -28,4 +28,3 @@ The following built-in annotations define a `Literal` static nested class, which
 * `javax.enterprise.inject.Alternative`
 * `javax.enterprise.inject.Typed`
 
-For example:
