@@ -85,9 +85,9 @@ Table 35-1 Enterprise Bean Types
 [width="75%",cols="35%,65%"]
 |=======================================================================
 |*Enterprise Bean Type* |*Purpose*
-|Session |Performs a task for a client; optionally, may implement a web
+|Session bean |Performs a task for a client; optionally, may implement a web
 service
 
-|Message-driven |Acts as a listener for a particular messaging type,
+|Message-driven bean |Acts as a listener for a particular messaging type,
 such as the Java Message Service API
 |=======================================================================
