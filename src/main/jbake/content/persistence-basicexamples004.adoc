@@ -45,8 +45,8 @@ the attribute must match before the entity can be persisted or modified.
 This constraint has two different uses in `address-book`.
 
 * The regular expression declared in the `@Pattern` annotation on the
-`email` field matches email addresses of the form name`@`domain
-name`.`top level domain, allowing only valid characters for email
+`email` field matches email addresses of the form name@`domain
+name`.`top level domain`, allowing only valid characters for email
 addresses. For example, `username@example.com` will pass validation, as
 will `firstname.lastname@mail.example.com`. However,
 `firstname,lastname@example.com`, which contains an illegal comma
