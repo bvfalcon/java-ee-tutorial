@@ -36,7 +36,7 @@
 </table>
 
 <span id="copyright">
-	<a href="img/cpyr.adoc">
+	<a href="http://www.oracle.com/">
 		<img src="img/oracle.gif" height="10px" alt="Oracle Logo" />&nbsp;			
 		<span>Copyright&nbsp;&copy;&nbsp;2017,&nbsp;Oracle&nbsp;and/or&nbsp;its&nbsp;affiliates.&nbsp;All&nbsp;rights&nbsp;reserved.</span>
 	</a>
