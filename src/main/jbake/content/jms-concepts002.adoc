@@ -61,7 +61,7 @@ resource injection to access the administered objects in the namespace
 and then establish a logical connection to the same objects through the
 JMS provider.
 
-[[BNCDZ]].*Figure 48-2 JMS API Architecture*
+[[BNCDZ]]*Figure 48-2 JMS API Architecture*
 
 image:img/javaeett_dt_027.png[
 "Diagram of JMS API architecture, showing administrative tool, JMS
