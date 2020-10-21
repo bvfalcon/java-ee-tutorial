@@ -113,7 +113,7 @@ to represent credentials used by HTTP Basic Authentication.
 used to assert an identity, but not to authenticate a user, due to the lack of
 any secret or other credential that can be validated.
 
-|`Password` |Class that represents a text-based password.
+|`Password` (Type) |Class that represents a text-based password.
 
 |`RememberMeCredential` |Class that represents a credential presented as a token,
 for the explicit usage with the JSR 375 remember me function.
