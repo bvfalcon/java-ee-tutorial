@@ -159,7 +159,7 @@ From the directory where you want to create the client certificate, run
 to enter the server name, organizational unit, organization, locality,
 state, and country code.
 
-You must enter the server name in response to `keytool`'s first prompt,
+You must enter the server name in response to `keytool` 's first prompt,
 in which it asks for first and last names. For testing purposes, this
 can be `localhost`. If this example is to verify mutual authentication
 and you receive a runtime error stating that the HTTPS host name is
