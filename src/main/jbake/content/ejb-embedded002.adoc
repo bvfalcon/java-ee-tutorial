@@ -162,10 +162,10 @@ Looking Up Session Bean References
 To look up session bean references in an application using the embedded
 container:
 
-1.  Use an instance of `EJBContainer` to retrieve a
+. Use an instance of `EJBContainer` to retrieve a
 `javax.naming.Context` object.
 +
-Call the `EJBContainer.getContext` method to retrieve the `Context`
+. Call the `EJBContainer.getContext` method to retrieve the `Context`
 object:
 +
 [source,oac_no_warn]
@@ -192,7 +192,7 @@ Shutting Down the Enterprise Bean Container
 
 To shut down the embedded container:
 
-1.  From the client, call the `close` method of the instance of
+. From the client, call the `close` method of the instance of
 `EJBContainer`.
 +
 [source,oac_no_warn]
