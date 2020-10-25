@@ -247,9 +247,9 @@ private String callMdb(MessageEndpoint mdb, Method command,
     mdb.afterDelivery();
     return resp;
 }
-
-For more details, see the code and the comments in the traffic-rar module.
 ----
+For more details, see the code and the comments in the traffic-rar module.
+
 
 [[sthref252]][[running-the-traffic-example]]
 
